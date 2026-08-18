@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Haanissara! 👋
 
-<!--
-**haanissara/haanissara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Universiti Teknologi MARA (UiTM) with an interest in technology, data analytics, and software development.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming: C++, Java
+* Data & Visualization: Power BI
+* Tools: Visual Studio Code, GitHub
+
+## 📊 Projects
+
+* Employee Salary Management System — C++
+* Student Record Management System — C++
+* Travel Booking Management System — Java
+* Supermarket Sales Dashboard — Power BI
+
+## 🌱 Currently Exploring
+
+* Data Analytics
+* Software Development
+* Building projects and improving my technical skills
+
+## 📫 Connect With Me
+
+* GitHub: [@haanissara](https://github.com/haanissara)
